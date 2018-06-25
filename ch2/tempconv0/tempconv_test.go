@@ -1,8 +1,6 @@
+//https://blog.csdn.net/u012855229/article/details/51766314
 package tempconv
 
-import "fmt"
-
-//https://blog.csdn.net/u012855229/article/details/51766314
 import "fmt"
 
 func Example_one() {
